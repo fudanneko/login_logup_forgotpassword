@@ -1,4 +1,4 @@
-package tw.idv.login_logup_forgotpassword;
+package tw.idv.jimmy;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;

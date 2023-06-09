@@ -1,4 +1,4 @@
-package tw.idv.login_logup_forgotpassword;
+package tw.idv.jimmy;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
